@@ -13,8 +13,7 @@ Electronics and Electronic communication Engineering Student at [Ain Shams Unive
 - Qt Framework
 - Git & GitHub
 
-### AI & Data Science
-- Machine Learning
+### Data Science
 - Data Processing
 - NumPy
 - Pandas
@@ -30,7 +29,6 @@ Electronics and Electronic communication Engineering Student at [Ain Shams Unive
 ### Digital Verification
 
 ### 🛠 Tools
-- Linux
 - LaTeX
 - AutoCAD
 - Qt Creator
