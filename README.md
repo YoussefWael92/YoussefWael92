@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hey there! I'm Youssef Wael Ibrahim
 
-<!--
-**YoussefWael92/YoussefWael92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electronics and Electronic communication Engineering Student at [Ain Shams University]
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technical Skills
+
+### 💻 Programming & Software
+- C / C++
+- Python
+- HTML5 / CSS
+- Qt Framework
+- Git & GitHub
+
+### AI & Data Science
+- Machine Learning
+- Data Processing
+- NumPy
+- Pandas
+- Jupyter Notebook
+- Google Colab
+
+### Digital Design & Embedded Systems
+- Embedded Systems
+- Raspberry Pi Pico
+- Arduino
+- Communication Protocols
+
+### Digital Verification
+
+### 🛠 Tools
+- Linux
+- LaTeX
+- AutoCAD
+- Qt Creator
+- Office Suite
